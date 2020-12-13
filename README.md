@@ -10,4 +10,4 @@ All units starts from random positions with random team players count. And actio
 4. Stylized UFO wars :)
 
 ## Example
-[![unity-team-fight](https://img.youtube.com/vi/ONT3SbW9eO4/1.jpg)](https://www.youtube.com/watch?v=ONT3SbW9eO4)
+[![unity-team-fight](https://img.youtube.com/vi/ONT3SbW9eO4/0.jpg)](https://www.youtube.com/watch?v=ONT3SbW9eO4)
